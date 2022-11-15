@@ -1,0 +1,1 @@
+data class Car(val id : Int, val model : String, val cost : Float)
